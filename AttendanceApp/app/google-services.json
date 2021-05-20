@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "65750864462",
+    "firebase_url": "https://attendance-302fb.firebaseio.com",
+    "project_id": "attendance-302fb",
+    "storage_bucket": "attendance-302fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65750864462:android:22172deb03f277ea",
+        "android_client_info": {
+          "package_name": "com.example.saylee.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65750864462-73d67tsauh9i8u4rnf59fu5a0n5h7eid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB33lB_lJpvDUOClw9ABUjI_cJmY7WBhiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
